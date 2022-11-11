@@ -13,6 +13,8 @@ My name is Josphat Rono , I'm from Kenya, and I'm a software engineer. I'm passi
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently studying at Kirinyaga university.
+
+jjjj
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 👀 I'd like to learn more about data science.
 - 🌱 Python, SQL, and R are the three programming languages that I
