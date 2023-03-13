@@ -25,13 +25,28 @@
 <h1>
 Hi I'm Josphat 
 
+<h3 align="center">Machine learning, Data analysis and Datascience.</h3>
+
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+
+
+
 
 </h1>
 
 </div>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-jaycee" alt="code-with-jaycee" /></a> </p>
 
 
+
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=code-with-jaycee&show_icons=true&locale=en" alt="code-with-jaycee" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-jaycee&" alt="code-with-jaycee" /></p>
+
+<br>
+<br>
 
 
 
@@ -42,7 +57,7 @@ Hi I'm Josphat
 My name is Josphat Rono , I'm from Kenya, and I'm a software engineer. I'm passionate about Python, R, and Sql programming languages, and I aspire to be a machine learning engineer and data scientist.I strongly believe that data is the new oil, and I want to help extract valuable insights from it to help make our world a better place. I'm excited to continue learning and expanding my skills in this area, and hope to contribute valuable insights to the communities I belong to. Thank you for reading! :)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-with-jaycee)](https://github.com/Code-with-jaycee/github-readme-stats)
+
 
 <!-- TODO: Add last video link -->
 
@@ -53,4 +68,7 @@ My name is Josphat Rono , I'm from Kenya, and I'm a software engineer. I'm passi
 💞️ I'm trying to work with other people to figure out how to become a data scientist professionally.
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-jaycee&show_icons=true&locale=en&layout=compact" alt="code-with-jaycee" /></p>
+<br>
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
