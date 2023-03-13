@@ -42,7 +42,7 @@ Hi I'm Josphat
 My name is Josphat Rono , I'm from Kenya, and I'm a software engineer. I'm passionate about Python, R, and Sql programming languages, and I aspire to be a machine learning engineer and data scientist.I strongly believe that data is the new oil, and I want to help extract valuable insights from it to help make our world a better place. I'm excited to continue learning and expanding my skills in this area, and hope to contribute valuable insights to the communities I belong to. Thank you for reading! :)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Code-with-jaycee/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Code-with-jaycee)](https://github.com/Code-with-jaycee/github-readme-stats)
 
 <!-- TODO: Add last video link -->
 
