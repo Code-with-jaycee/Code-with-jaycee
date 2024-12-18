@@ -48,17 +48,11 @@ Hi I'm Josphat
 <br>
 <br>
 
-
-
-
-
-
-
 Josphat Rono
 Software Engineer | Machine Learning Enthusiast | Data Scientist | Founder of Galaxyxpersoftwares.com
 Based in Kenya
 
-I'm passionate about Python, R, and SQL programming languages, with aspirations to become a machine learning engineer and data scientist. I strongly believe that data is the new oil and aims to extract valuable insights to help improve the world. As the founder of Galaxyxpersoftwares.com, I am committed to creating innovative solutions and contributing valuable insights to the communities I belong to. I'm excited to continue learning and expanding my skills in these fields. :)
+I'm passionate about Python, R, and SQL programming languages, with aspirations to become a machine learning engineer and data scientist. Data is the new oil and aims to extract valuable insights to help improve the world. As the founder of Galaxyxpersoftwares.com, I am committed to creating innovative solutions and contributing valuable insights to the communities I belong to. I'm excited to continue learning and expanding my skills in these fields. :)
 
 
 
