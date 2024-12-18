@@ -54,14 +54,18 @@ Hi I'm Josphat
 
 
 
-My name is Josphat Rono , I'm from Kenya, and I'm a software engineer. I'm passionate about Python, R, and Sql programming languages, and I aspire to be a machine learning engineer and data scientist.I strongly believe that data is the new oil, and I want to help extract valuable insights from it to help make our world a better place. I'm excited to continue learning and expanding my skills in this area, and hope to contribute valuable insights to the communities I belong to. Thank you for reading! :)
+Josphat Rono
+Software Engineer | Machine Learning Enthusiast | Data Scientist | Founder of Galaxyxpersoftwares.com
+Based in Kenya
+
+I'm passionate about Python, R, and SQL programming languages, with aspirations to become a machine learning engineer and data scientist. I strongly believe that data is the new oil and aims to extract valuable insights to help improve the world. As the founder of Galaxyxpersoftwares.com, I am committed to creating innovative solutions and contributing valuable insights to the communities I belong to. I'm excited to continue learning and expanding my skills in these fields. :)
 
 
 
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studying at Kirinyaga university.
+- 🔭 I’m currently a CEO and Founder at Galaxyxpert Softwares Solution.
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 👀 I'd like to learn more about data science.
 - 🌱 Python, SQL, and R are the three programming languages that I
